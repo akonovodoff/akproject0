@@ -1,0 +1,13 @@
+body {
+  background-color:#F8F9E6;
+}
+
+head , p {
+  color: black;
+  margin-left: 20px;
+}
+text {
+  color: black;
+  align-center;
+  font-family: Lucida Bright
+}
